@@ -21,7 +21,7 @@ The environment, agent and sensor configurations can be specified through preset
 
 ### API functions
 
-The simulator API is implemented in [minos/lib/Simulator.py](lib/Simulator.py).  The main functions have pydoc strings, and are also described below.
+The simulator API is implemented in [minos/lib/Simulator.py](minos/lib/Simulator.py).  The main functions have pydoc strings, and are also described below.
 
 1. `init`
 
